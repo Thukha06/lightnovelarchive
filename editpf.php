@@ -165,7 +165,6 @@
     .article__details__btn .title-btn {
         color: #111111;
         width: 70%;
-        background: ;
         border: none;
         display: inline-block;
         font-weight: 700;
@@ -224,7 +223,6 @@
 /*    for profile photo*/
     .avatar-upload {
         bottom: 150px;
-        left: ;
         position: relative;
         max-width: 250px;
         margin: 50px auto;
